@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Garujo</h1>
-<h3 align="center">A passionate Software QA Engineer</h3>
+<h3 align="center"> I am a very passionate Software QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcocangela&label=Profile%20views&color=0e75b6&style=flat" alt="marcocangela" /> </p>
 
