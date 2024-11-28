@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Playwright and Astro**
 
-- 📝 I regularly write articles on [https://medium.com/@marcogarujo](https://medium.com/@marcogarujo)
+- 📝 Sometimes I share my perspective via articles on [https://medium.com/@marcogarujo](https://medium.com/@marcogarujo)
 
 - 💬 Ask me about **Playwright, Automation and Software Testing**
 
