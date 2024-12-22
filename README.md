@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcocangela" alt="marcocangela" /></a> </p>
 
-- 🌱 I’m currently learning **Playwright and Astro**
+- 🌱 I’m currently learning **Playwright, Appium, and Astro**
 
 - 📝 Sometimes I share my perspective via articles on [https://medium.com/@marcogarujo](https://medium.com/@marcogarujo)
 
