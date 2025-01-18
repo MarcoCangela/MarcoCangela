@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcocangela&show_icons=true&locale=en" alt="marcocangela" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcocangela&" alt="Marco Cangela Garujo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcocangela&" alt="Marco Cangela Garujo" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarcoCangela" alt="My Github Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarcoCangela" alt="My Github Streak" /></a> 
 
