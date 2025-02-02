@@ -32,3 +32,7 @@
 <div align="center">
 <a  align="center" href="https://git.io/streak-stats"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MarcoCangela" alt="My Github Streak" /></a> 
 </div>
+
+<div align="center">
+    &copy {new Date().getFullYear()} Marco Garujo </br> 
+  </div>
