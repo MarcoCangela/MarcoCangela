@@ -34,5 +34,5 @@
 </div>
 
 <div align="center">
-    &copy {new Date().getFullYear()} Marco Garujo </br> 
+    &copy Marco Garujo </br> 
   </div>
